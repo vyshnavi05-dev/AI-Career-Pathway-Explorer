@@ -76,4 +76,4 @@ The core features of the application have been implemented. Further improvements
 
 ## Disclaimer
 The application is intended to support career exploration and decision-making. Career match scores indicate alignment with the skills represented in the knowledge base and do not guarantee employment or career success.
-The application is intended to support career exploration and decision-making. Career match scores indicate alignment with the skills represented in the knowledge base and do not guarantee employment or career success.
+
